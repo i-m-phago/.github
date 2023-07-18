@@ -13,3 +13,7 @@ Envisioning a future where AI oversees planning, casting, directing, and editing
 
 Curious to learn more?
 Visit [**"MBC <PD가 사라졌다>"**](https://www.yna.co.kr/view/AKR20230703125000005).
+
+---
+
+[D3LAB](https://sharp-saw-d58.notion.site/D3LAB-10c829858e4c42eda1ce140f3e7e77bf) | [Disclaimer](https://github.com/i-m-phago/.github/blob/main/profile/Disclaimer.md)
